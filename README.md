@@ -6,7 +6,8 @@ AnalyzeTheChat is a Streamlit-based web application that allows you to analyze W
 
 ## 🌐 Live Demo
 
-
+Check out Live Demo: https://analyzethechat.up.railway.app/
+Analyze your individual & groups chats
 ---
 
 ## 📚 Features
