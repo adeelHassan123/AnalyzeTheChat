@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#00F4FF"  # Neon cyan
+backgroundColor = "#2B0B3A"  # Violet for gradient start
+secondaryBackgroundColor = "#000000"  # Black for gradient end
+textColor = "#E0E0E0"  # Light text
+font = "Poppins"
